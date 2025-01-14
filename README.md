@@ -4,9 +4,9 @@
 
 A modern and responsive landing page designed using HTML and CSS. This template features smooth scrolling, grid layouts, and a modular approach that makes it easy to customize and maintain.
 
-🖼️ **Preview**
+🌍 **Live Demo**
 
-![Project Screenshot](insert-your-screenshot-link-here)
+👉 [View Live Demo](https://ashrafmahmoud2.github.io/Kasper--template-html-css/)
 
 🚀 **Features**
 
@@ -43,6 +43,4 @@ kasper-template/
 - Font Awesome 📦 (Icons)
 - Normalize.css 🌐 (Cross-browser compatibility)
 
-🌍 **Live Demo**
 
-👉 [View Live Demo](https://ashrafmahmoud2.github.io/Kasper--template-html-css/)
