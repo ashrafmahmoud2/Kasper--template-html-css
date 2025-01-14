@@ -41,6 +41,6 @@ kasper-template/
 - HTML5 🛠️
 - CSS3 🎨
 - Font Awesome 📦 (Icons)
-- Normalize.css 🌐 (Cross-browser compatibility)
+
 
 
